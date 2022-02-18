@@ -41,7 +41,7 @@ Aptitude Tb
 
 Engineering Calculator
 
-![Alt text](Engineering Calculator.png)
+![Alt text](Engineering%20Calculator.png)
 
 Compilers
 
