@@ -15,5 +15,5 @@ Index page
 
 Registration page
 
-![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Registration.png)
+![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Registration%20form.png)
 
