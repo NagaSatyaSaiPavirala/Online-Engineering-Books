@@ -9,7 +9,11 @@ Our main target is to avoid unemployment of engineering students if they have go
 
 SCREENSHOTS:
 
-Light Mode
+Index page
 
-![Alt text](https://nagasatyasaipavirala.github.io/Engineers-Calculator/Light%20mode.png)
+![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Index.png)
+
+Registration page
+
+![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Registration.png)
 
