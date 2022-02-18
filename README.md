@@ -17,6 +17,12 @@ Registration page
 
 ![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Registration%20form.png)
 
+Validation
+
+![Alt text](Validation.png)
+
+
+
 Login page
 
 ![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Login%20form.png)
@@ -29,7 +35,16 @@ Oracle 10g database
 
 ![Alt text](https://nagasatyasaipavirala.github.io/Online-Engineering-Books/Oracle%2010g.png)
 
+Aptitude Tb
 
+![Alt text](Aptitude Tb.png)
 
+Engineering Calculator
+
+![Alt text](Engineering Calculator.png)
+
+Compilers
+
+![Alt text](Compilers.png)
 
 
