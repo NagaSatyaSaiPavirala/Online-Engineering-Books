@@ -37,7 +37,7 @@ Oracle 10g database
 
 Aptitude Tb
 
-![Alt text](Aptitude Tb.png)
+![Alt text](Aptitude%20Tb.png)
 
 Engineering Calculator
 
